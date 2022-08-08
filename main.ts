@@ -292,8 +292,8 @@ let fakeTimeString = "0801";
 
     basic.showString("C"); //Third string from ardu
     basic.pause(1000);
-    basic.showNumber(bufboi[4]); //Door
-    basic.pause(1000);
+    //basic.showNumber(bufboi[4]); //Door
+    //basic.pause(1000);
     basic.showNumber(bufboi[5]); //Clock
     basic.pause(1000);
   }
