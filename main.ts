@@ -331,11 +331,11 @@ let fakeTimeString = "0801";
     basic.pause(2000);
     
     //basic.showString("H");
-    setHeat(40);
-    basic.pause(2000);
+    //setHeat(40);
+    //basic.pause(2000);
     //setHeat(0,0);
     //setHeat(1,0);
-    basic.showString("E");
+    //basic.showString("E");
   }
 
   /**
